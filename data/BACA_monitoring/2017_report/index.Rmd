@@ -1,0 +1,250 @@
+---
+title: "Bakersfield Cactus Sampling Analysis: 2017"
+author: "Malory Owen, Brooke Wainwright, Chris Lortie"
+date: "1/31/2019"
+output:
+  html_document: default
+  pdf_document: default
+always_allow_html: yes
+---
+
+####Let's explore the abundance, size, and health of the federally and state endangered cactus, *Opuntia basilaris* var. *treleasei*, also known as the Bakersfield Cactus. A historical population exists at Wind Wolves Reserve, and after a particularly rainy season threatened to kill the historical population, others populations were establish with propagated paddles from the historical population. 
+
+
+```{r setup, include=FALSE}
+#bring in libraries of interest
+#library(ggplot2)
+library(tidyverse)
+library(leaflet)
+#library(dplyr)
+library(naniar)
+#library(tidyr)
+
+#bringin the data
+baca <- read_csv("data/BACA_data_2017.csv")
+
+
+```
+
+##Data
+
+####Before we get into it, let's just explore the data a bit.
+```{r, include=TRUE}
+head(baca) #display it
+
+#How many cacti per site?
+count(baca, Population)
+
+#Do we have different numbers of cacti measured each year?
+count(baca, Year)
+
+#How many cacti per protection type?
+count(baca, Protection)
+
+
+```
+
+
+
+##Location: Where are the cacti?
+
+####Let's map any and all cacti that have been documented from 2012-2016 at the Historical site at Wind Wolves.
+
+```{r warning=FALSE}
+#map all points 
+baca_map <- leaflet() %>% 
+  addTiles() %>% 
+  addCircleMarkers(lng = baca$x, lat = baca$y, radius = 5, color = "#DEAFD6")
+
+baca_map #print
+
+
+
+#Map the years
+pal2 <- colorFactor(c("#366286", "#29266d", "#95b2d5", "#95d5c9", "#a2cd83"), domain = c("2012-2013", "2013-2014", "2014-2015", "2015-2016", "2016-2017"))
+
+leaflet(baca) %>% addTiles() %>%
+  addCircleMarkers(
+    lng = baca$x, lat= baca$y,
+    color = ~pal2(Year),
+    stroke = FALSE, fillOpacity = 0.5
+  ) %>% 
+   addLegend("bottomright", pal = pal2, values = ~Year,
+    title = "Cactus Year",
+    opacity = 1
+  )
+
+
+
+#Map the protecters
+pal <- colorFactor(c("#6d4a5c", "#f2c29a", "#a2cd83"), domain = c("Rebar", "Rock", "Vaca"))
+
+leaflet(baca) %>% addTiles() %>%
+  addCircleMarkers(
+    lng = baca$x, lat= baca$y,
+    color = ~pal(Protection),
+    stroke = FALSE, fillOpacity = 0.5
+  ) %>% 
+   addLegend("bottomright", pal = pal, values = ~Protection,
+    title = "Protection Type",
+    opacity = 1
+  )
+
+
+
+#Map the health
+pal3 <- colorFactor(c("black", "sienna", "indianred", "orange", "khaki", "#859469"), domain = c("0", "1", "2", "3", "4", "5"))
+
+leaflet(baca) %>% addTiles() %>%
+  addCircleMarkers(
+    lng = baca$x, lat= baca$y,
+    color = ~pal3(Health),
+    stroke = FALSE, fillOpacity = 0.5
+  ) %>% 
+   addLegend("bottomright", pal = pal3, values = ~Health,
+    title = "Health of Cacti",
+    opacity = 1
+  )
+
+
+
+```
+####Zoom in for a closer look on HTML Version.
+```{r Maps for PDF}
+#![Map of all cactus points.](Map_Images/All.png)
+#![Map of cacti measured each year.](Map_Images/Year.png)
+#![Map of protection types for each cactus.](Map_Images/Protection.png)
+#![Map of the health index for each cactus.](Map_Images/Health.png)
+
+```
+
+
+##Size of Cacti
+
+####We've seen the spatial distribution of our cacti by several different factors, but now let's take a look at how they measure up. For pollinators, there is evidence that height of an infloresence impacts pollinator visition, and the same may be true for avian frugivores. For this data, we do not have a height measurement, but we do have area. Understanding how size varies across the population may illuminate some truths about bird-cactus double mutualism.
+
+####Size may also illuminate the age, reproductive succes, or health of the cacti, especially for those propagated from the historical population.
+
+```{r Size Plots, warning = FALSE}
+nabaca <- baca %>% drop_na(Area.cm2)
+
+
+mean(nabaca$Area.cm2) #mean area for all
+
+tapply(nabaca$Area.cm2, nabaca$Population, mean) #mean height of each population
+tapply(nabaca$Area.cm2, nabaca$Protection, mean) #mean height of each protection method
+tapply(nabaca$Area.cm2, nabaca$Year, mean) #mean height over each year--are they growing?
+
+ggplot(nabaca, aes(x = Population, y=Area.cm2)) +
+  geom_boxplot() + labs(title = "Size of Cacti by Population", x = "Population", y = "Size in cm Squared") +
+  theme_minimal() 
+
+ggplot(nabaca, aes(x = Protection, y=Area.cm2)) +
+  geom_boxplot() + labs(title = "Size of Cacti by Protection Type", x = "Protection", y = "Size in cm Squared") +
+  theme_minimal() 
+
+ggplot(nabaca, aes(x = Year, y=Area.cm2)) +
+  geom_boxplot() + labs(title = "Size of Cacti by Year", x = "Year", y = "Size in cm Squared") +
+  theme_minimal() 
+
+#Nothing visually striking us about differences between any of these factors. But let's take a look at the stats next...
+
+#Shaprio-willks test for normality
+shapiro.test(nabaca$Area.cm2) #It's super normal!
+
+#plot the distribution
+ggplot(nabaca, aes(x = Area.cm2)) +
+  geom_density() + labs(title = "Size of Cacti", x = "Area", y = "Number of cacti") +
+  theme_minimal()
+
+#Let's do 3 ANOVAs for each of our parameters of interest
+#One-way ANOVAs
+
+anova_year <- aov(Area.cm2 ~ Year, data=nabaca)
+summary(anova_year) #Significantly different!
+tuk_year<- TukeyHSD(anova_year)
+tuk_year #whoa that's a lot of dashes. Either way, worked! 
+#No significant difference between 2012-2013 growing season and 2015-2016 OR 2016-2017 growing seasons. Also, no significant differences between 2016-2017 and 2015-2016 growing seasons. No difference between 2013-2014 and 2014-2015, no difference between 2014-2015 and 2015-2016.
+
+anova_protect <- aov(Area.cm2 ~ Protection, data = nabaca)
+summary(anova_protect) #Again, significantly different!
+tuk_protect <- TukeyHSD(anova_protect)
+tuk_protect #No signficant difference between vaca and rebar, but significant differences between both Vaca to rocks and rebar to rocks. For size, vaca=rebar, vaca>rocks, rocks<rebar. Basically, rocks had smallest plants, rebar and vaca had equally bigger plants.
+
+anova_pop <- aov(Area.cm2 ~ Population, data = nabaca)
+summary(anova_pop) #Again, significantly different!
+tuk_pop <- TukeyHSD(anova_pop)
+tuk_pop #ok, get's a little complicated
+#No differences: Lobos and Historic, Muddy and Historic, Muddy and Lobos, Salt and Lobos, San Emigdio and Lobos, San Emigdio and Salt
+#Differences San Emigdio and Historic (San Emigdio bigger), Salt and Muddy (Salt bigger), and San Emigdio and Muddy (San Emigdio bigger)
+
+
+
+```
+
+##Health of Cacti
+
+####Each cactus was given a health score from 0 to 5, 0 being the most unhealthy and 5 being the most healthy. This was based on paddle death, rot, or scarification of each individual. 
+
+```{r Health, warning = FALSE}
+#First, let's plot health distribution
+ggplot(baca, aes(x = Health))+
+  geom_density() + labs(title = "Health of Cacti", x = "Health Index", y = "Number of cacti") +
+  theme_minimal() #notice it's Likert-scale like data
+
+#So let's try it by different factors
+
+#Year
+ggplot(baca, aes(x = Health)) +
+  geom_histogram() + labs(title = "Health of Cacti", x = "Number of individuals in each health class by Year", y = "Health class") +
+  facet_grid(~Year) +
+  theme_minimal()
+
+#Protection method
+ggplot(baca, aes(x = Health)) +
+  geom_histogram() + labs(title = "Health of Cacti", x = "Number of individuals in each health class by Protection Method", y = "Health class") +
+  facet_grid(~Protection) +
+  theme_minimal()
+
+#Population
+ggplot(baca, aes(x = Health)) +
+  geom_histogram() + labs(title = "Health of Cacti", x = "Number of individuals in each health class by Population", y = "Health class") +
+  facet_grid(~Population) +
+  theme_minimal()
+
+#Good to see that there are mostly 5's in all our factors!
+
+#Here, I'm going to use the Kruskall Wallis test to analyze or data
+a <- kruskal.test(Year ~ Health, data = baca)
+#Super significant!
+
+kruskal.test(Protection ~ Health, data = baca)
+#Not significantly different
+
+kruskal.test(Population ~ Health, data = baca)
+#Super significant!
+
+#But let's try with ANOVA too
+
+h_anova_year <- aov(Health ~ Year, data=baca)
+summary(h_anova_year) #Significantly different!
+htuk_year<- TukeyHSD(h_anova_year)
+htuk_year 
+#2012-2013 is different than 2015-2016 AND 2016-2017 (2015-2016 was healthier than 2012-2013, but 2012-2013 was healthier than 2016-2017). 2016-2017 is different from 2013-2014, 2014-2015, AND 2015-2016 (2016-2017 was less healthy than all three of the other years).
+
+#clear that 2016-2017 was a much unhealthier year.
+
+
+```
+
+##Some take aways
+
+####Vaca (which is code for chicken wire exclosures) and rebars were the most effective at size growth, but no protection method helped keep health up. This makes sense, since the cacti primarily reproduce by cloning from fallen paddles, so individuals with protection surrouding the ground may have a higher rate of propagation. But rebars were just as effective, and are lower costs and easier to install and maintain. However, do we want to value size or health/cost of the cacti? And how does genetic diversity play into our priorities? A bigger cacti that has no genetic diversity from its neighbors may be a low priority. 
+
+####Time did have an effect on both health and size, but it was not in a linear fashion. Perhaps this tells us that events unrelated to linear time progression over a 5 year period (like weather, animals, livestock, or even visitors) may have a stronger impact than something constant to time like growth. 
+
+####Each population also has a difference in its impacts on health and size, although this is not surprising. It may be useful to document characteristics of each site such as soil composition, nearness to roads, grass cover, etc. as potential impactors. 
+
+
+
+

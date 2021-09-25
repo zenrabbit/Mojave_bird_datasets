@@ -1,0 +1,62 @@
+---
+title: "index"
+author: "Malory Owen & Christopher Lortie"
+date: "2/13/2020"
+output: html_document
+---
+
+Here we investigate the difference in pollination attempts at cacti with mimic flowers and real flowers, and how density of those floral displays (mimic or real) also influences visitation.
+
+```{r, setup, include=FALSE}
+library(tidyverse)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(vegan)
+
+focal <- read_csv("~/Masters/Mimic-Bird-Cacti-Mutualism/data.flower/mimic_flower_models/focal_bird_visitation.csv")
+poll <- read_csv("~/Masters/Mimic-Bird-Cacti-Mutualism/data.flower/mimic_flower_models/pollination_events.csv")
+
+
+```
+
+```{r, data manipulation, include=FALSE}
+
+poll.cacti <- filter(poll, treatment != "pole") #ready for model 1, a simple t-test
+poll.mimic <- poll %>% filter(experiment == "mimic")  #data ready for model 2, an ANOVA 
+
+```
+
+
+```{r, Viz, warning=FALSE, echo=FALSE}
+plant.type.hist <- ggplot(focal, aes(x=treatment)) +
+  geom_histogram(stat = "count") +
+  facet_grid(.~experiment) +
+  theme_classic()
+plant.type.hist
+
+behav.hist <- ggplot(focal, aes(x=behavior)) +
+  geom_histogram(stat = "count") +
+  facet_grid(.~experiment) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 90))
+behav.hist
+
+```
+
+
+```{r, models, warning=FALSE}
+#difference in pollination events between false and real flowers
+m1 <- t.test(pollination_events ~ experiment, data = poll.cacti)
+m1
+sd(poll.cacti$pollination_events)
+
+#difference in mimic displays for pollination events
+m2 <- lm(pollination_events ~ treatment, data = poll.cacti)
+summary(m2)
+
+m2.aov <- aov(pollination_events ~ treatment, data = poll.cacti)
+summary(m2.aov)
+
+```
+
