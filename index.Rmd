@@ -14,8 +14,17 @@ A check on data from Mojave on avian community diversity patterns and interactio
 
 ```{r}
 library(tidyverse)
+metadata <- read_csv("data/tidy/mimic/metadata.csv")
+metadata
+
+microclimate <- read_csv("data/tidy/mimic/microclimate.csv")
+microclimate
+
 visitation <- read_csv("data/tidy/mimic/focal_bird_visitation.csv")
+visitation
+
 pollination <- read_csv("data/tidy/mimic/focal_bird_pollination.csv")
+pollination
 
 ```
 
