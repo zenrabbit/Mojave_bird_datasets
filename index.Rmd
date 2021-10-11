@@ -1,0 +1,21 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## Data checks
+A check on data from Mojave on avian community diversity patterns and interactions with foundation plant species.  
+
+#### Mimic
+
+```{r}
+library(tidyverse)
+visitation <- read_csv("data/tidy/mimic/focal_bird_visitation.csv")
+pollination <- read_csv("data/tidy/mimic/focal_bird_pollination.csv")
+
+```
+
