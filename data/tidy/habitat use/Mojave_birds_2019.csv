@@ -1,0 +1,756 @@
+rep,year,date,mdy,season,day,survey,microhabitat,family,species,migratory_class,guild,behavior_simple
+1,2019,2019-08-14,8.14.17,summer,14,27,cactus,unknown,Unknown Passerine,unknown,unknown,mating behaviors
+2,2019,2019-08-14,8.14.17,summer,14,27,open,Troglodytidae,Cactus Wren,resident,omnivore,movement
+3,2019,2019-05-01,5.1.10,spring,1,1,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+3,2019,2019-08-14,8.14.17,summer,14,27,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+4,2019,2019-08-14,8.14.17,summer,14,27,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+4,2019,2019-05-01,5.1.10,spring,1,1,open,Columbidae,Mourning Dove,resident,granivore,perching
+5,2019,2019-05-01,5.1.10,spring,1,1,cactus,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+5,2019,2019-08-14,8.14.17,summer,14,27,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+6,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+6,2019,2019-05-01,5.1.10,spring,1,1,cactus,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+7,2019,2019-05-01,5.1.10,spring,1,1,cactus,Fringillidae,House Finch,resident,frugivore,perching
+8,2019,2019-05-01,5.1.10,spring,1,1,open,Unknown,Unknown,unknown,Unknown,movement
+8,2019,2019-08-14,8.14.17,summer,14,27,shrub,Tyrannidae,Western Kingbird,summer resident,insectivore,cleaning
+9,2019,2019-05-01,5.1.10,spring,1,1,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+9,2019,2019-08-14,8.14.17,summer,14,27,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+10,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+11,2019,2019-05-01,5.1.10,spring,1,1,shrub,Unknown,Unknown,unknown,Unknown,movement
+11,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+12,2019,2019-05-01,5.1.10,spring,1,1,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+12,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+13,2019,2019-05-01,5.1.10,spring,1,1,cactus,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,feeding
+13,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+14,2019,2019-05-01,5.1.10,spring,1,1,shrub,Mimidae,Northern Mockingbird,resident,frugivore,perching
+14,2019,2019-08-14,8.14.17,summer,14,27,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+15,2019,2019-08-15,8.15.9,summer,15,28,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+15,2019,2019-05-01,5.1.10,spring,1,1,open,Unknown,Unknown,unknown,Unknown,perching
+16,2019,2019-05-01,5.1.10,spring,1,1,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+16,2019,2019-08-15,8.15.9,summer,15,28,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+17,2019,2019-05-01,5.1.10,spring,1,1,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+17,2019,2019-08-15,8.15.9,summer,15,28,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+18,2019,2019-05-01,5.1.10,spring,1,1,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+18,2019,2019-08-15,8.15.9,summer,15,28,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+19,2019,2019-08-15,8.15.9,summer,15,28,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,movement
+20,2019,2019-08-15,8.15.9,summer,15,28,open,Laniidae,Loggerhead Shrike,resident,carnivore,movement
+21,2019,2019-05-01,5.1.10,spring,1,1,open,Columbidae,Mourning Dove,resident,granivore,movement
+21,2019,2019-08-15,8.15.9,summer,15,28,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+23,2019,2019-05-01,5.1.10,spring,1,1,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+24,2019,2019-05-01,5.1.10,spring,1,1,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+24,2019,2019-08-15,8.15.9,summer,15,28,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+25,2019,2019-05-01,5.1.10,spring,1,1,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+25,2019,2019-08-15,8.15.9,summer,15,28,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+26,2019,2019-05-01,5.1.10,spring,1,1,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+26,2019,2019-08-15,8.15.9,summer,15,28,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+27,2019,2019-05-01,5.1.10,spring,1,1,open,Unknown,Unknown,unknown,Unknown,perching
+27,2019,2019-08-15,8.15.9,summer,15,28,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+28,2019,2019-08-15,8.15.9,summer,15,28,shrub,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+29,2019,2019-05-01,5.1.10,spring,1,1,cactus,Mimidae,Northern Mockingbird,resident,omnivore,movement
+32,2019,2019-05-01,5.1.10,spring,1,1,cactus,Unknown,Unknown,unknown,Unknown,movement
+33,2019,2019-05-01,5.1.10,spring,1,1,cactus,Unknown,Unknown,unknown,Unknown,movement
+33,2019,2019-08-15,8.15.9,summer,15,28,shrub,Remezidae,Verdin,resident,insectivore,movement
+34,2019,2019-08-15,8.15.9,summer,15,28,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+35,2019,2019-05-01,5.1.10,spring,1,1,shrub,Cardinalidae,Black.headed Grosbeak,summer resident,omnivore,perching
+36,2019,2019-05-01,5.1.10,spring,1,1,shrub,Cardinalidae,Black.headed Grosbeak,summer resident,omnivore,perching
+37,2019,2019-05-01,5.1.10,spring,1,1,shrub,Cardinalidae,Black.headed Grosbeak,summer resident,omnivore,perching
+37,2019,2019-08-15,8.15.9,summer,15,28,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+38,2019,2019-05-01,5.1.10,spring,1,1,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+39,2019,2019-05-01,5.1.10,spring,1,1,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+39,2019,2019-08-15,8.15.18,summer,15,29,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+40,2019,2019-08-15,8.15.18,summer,15,29,cactus,Icteridae,Scott's Oriole,summer resident,omnivore,feeding
+41,2019,2019-05-01,5.1.14,spring,1,2,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+41,2019,2019-08-15,8.15.18,summer,15,29,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+42,2019,2019-08-15,8.15.18,summer,15,29,cactus,Remezidae,Verdin,resident,insectivore,movement
+43,2019,2019-08-15,8.15.18,summer,15,29,cactus,Remezidae,Verdin,resident,insectivore,movement
+44,2019,2019-08-15,8.15.18,summer,15,29,cactus,Remezidae,Verdin,resident,insectivore,movement
+45,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+45,2019,2019-08-15,8.15.18,summer,15,29,cactus,Fringillidae,House Finch,resident,frugivore,feeding
+46,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+46,2019,2019-08-15,8.15.18,summer,15,29,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+49,2019,2019-08-15,8.15.18,summer,15,29,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+50,2019,2019-05-01,5.1.14,spring,1,2,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+50,2019,2019-08-15,8.15.18,summer,15,29,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+51,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+51,2019,2019-08-15,8.15.18,summer,15,29,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+52,2019,2019-05-01,5.1.14,spring,1,2,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+52,2019,2019-08-15,8.15.18,summer,15,29,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+53,2019,2019-08-15,8.15.18,summer,15,29,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+54,2019,2019-08-15,8.15.18,summer,15,29,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+54,2019,2019-05-01,5.1.14,spring,1,2,shrub,Icteridae,Wilson's Warbler,migrant,insectivore,feeding
+55,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+55,2019,2019-08-16,8.16.7,summer,16,30,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+56,2019,2019-05-01,5.1.14,spring,1,2,cactus,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+56,2019,2019-08-16,8.16.7,summer,16,30,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+57,2019,2019-08-16,8.16.7,summer,16,30,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+57,2019,2019-05-01,5.1.14,spring,1,2,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+58,2019,2019-08-16,8.16.7,summer,16,30,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+59,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+59,2019,2019-08-16,8.16.7,summer,16,30,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+60,2019,2019-05-01,5.1.14,spring,1,2,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,feeding
+60,2019,2019-08-16,8.16.7,summer,16,30,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+61,2019,2019-08-16,8.16.7,summer,16,30,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+62,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+62,2019,2019-08-16,8.16.7,summer,16,30,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+63,2019,2019-08-16,8.16.7,summer,16,30,cactus,Remezidae,Verdin,resident,insectivore,feeding
+64,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+64,2019,2019-08-16,8.16.7,summer,16,30,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+65,2019,2019-08-16,8.16.7,summer,16,30,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,feeding
+67,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+67,2019,2019-08-16,8.16.18,summer,16,31,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+68,2019,2019-08-16,8.16.18,summer,16,31,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+69,2019,2019-05-01,5.1.14,spring,1,2,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,movement
+69,2019,2019-08-16,8.16.18,summer,16,31,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+70,2019,2019-08-16,8.16.18,summer,16,31,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+70,2019,2019-05-01,5.1.14,spring,1,2,open,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+71,2019,2019-08-17,8.17.7,summer,17,32,cactus,Cuculidae,Greater Roadrunner,resident,insectivore,perching
+71,2019,2019-05-01,5.1.14,spring,1,2,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+72,2019,2019-08-17,8.17.7,summer,17,32,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+72,2019,2019-05-01,5.1.14,spring,1,2,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+73,2019,2019-08-17,8.17.7,summer,17,32,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+73,2019,2019-05-01,5.1.14,spring,1,2,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+74,2019,2019-08-17,8.17.7,summer,17,32,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+74,2019,2019-05-01,5.1.14,spring,1,2,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+75,2019,2019-05-01,5.1.14,spring,1,2,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+75,2019,2019-08-17,8.17.7,summer,17,32,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+76,2019,2019-05-01,5.1.14,spring,1,2,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+76,2019,2019-08-17,8.17.7,summer,17,32,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+77,2019,2019-05-01,5.1.14,spring,1,2,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+78,2019,2019-08-17,8.17.7,summer,17,32,shrub,Mimidae,Crissal Thrasher,resident,omnivore,perching
+78,2019,2019-05-01,5.1.16,spring,1,3,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+79,2019,2019-08-17,8.17.7,summer,17,32,open,Mimidae,Crissal Thrasher,resident,omnivore,perching
+79,2019,2019-05-01,5.1.16,spring,1,3,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+80,2019,2019-05-01,5.1.16,spring,1,3,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+80,2019,2019-08-17,8.17.7,summer,17,32,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+81,2019,2019-05-01,5.1.16,spring,1,3,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,perching
+81,2019,2019-08-17,8.17.7,summer,17,32,shrub,Laniidae,Loggerhead Shrike,resident,carnivore,perching
+82,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+83,2019,2019-05-01,5.1.16,spring,1,3,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+83,2019,2019-08-17,8.17.17,summer,17,33,open,Mimidae,Crissal Thrasher,resident,omnivore,perching
+85,2019,2019-05-01,5.1.16,spring,1,3,open,Fringillidae,House Finch,resident,frugivore,perching
+85,2019,2019-08-17,8.17.17,summer,17,33,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+86,2019,2019-05-01,5.1.16,spring,1,3,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+87,2019,2019-05-01,5.1.16,spring,1,3,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+87,2019,2019-08-17,8.17.17,summer,17,33,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+88,2019,2019-08-17,8.17.17,summer,17,33,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+89,2019,2019-05-01,5.1.16,spring,1,3,open,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+89,2019,2019-08-17,8.17.17,summer,17,33,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+90,2019,2019-05-01,5.1.16,spring,1,3,open,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+90,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+91,2019,2019-05-01,5.1.16,spring,1,3,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+91,2019,2019-08-17,8.17.17,summer,17,33,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+92,2019,2019-05-01,5.1.16,spring,1,3,cactus,Mimidae,Northern Mockingbird,resident,omnivore,movement
+92,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+93,2019,2019-05-01,5.1.16,spring,1,3,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+93,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+94,2019,2019-05-01,5.1.16,spring,1,3,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+94,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+95,2019,2019-05-01,5.1.16,spring,1,3,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+95,2019,2019-08-17,8.17.17,summer,17,33,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+96,2019,2019-08-17,8.17.17,summer,17,33,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+97,2019,2019-08-17,8.17.17,summer,17,33,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+98,2019,2019-05-01,5.1.16,spring,1,3,open,Tyrannidae,Say's Phoebe,resident,insectivore,movement
+99,2019,2019-05-01,5.1.16,spring,1,3,cactus,Mimidae,Northern Mockingbird,resident,omnivore,perching
+101,2019,2019-05-01,5.1.16,spring,1,3,shrub,Mimidae,Northern Mockingbird,resident,omnivore,movement
+102,2019,2019-05-01,5.1.16,spring,1,3,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+103,2019,2019-08-18,8.18.6,summer,18,34,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+104,2019,2019-05-01,5.1.16,spring,1,3,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+104,2019,2019-08-18,8.18.6,summer,18,34,shrub,Troglodytidae,Bewick's Wren,resident,insectivore,movement
+105,2019,2019-05-01,5.1.16,spring,1,3,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+105,2019,2019-08-18,8.18.6,summer,18,34,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+107,2019,2019-05-01,5.1.16,spring,1,3,cactus,Fringillidae,House Finch,resident,frugivore,mating behaviors
+108,2019,2019-05-01,5.1.16,spring,1,3,cactus,Fringillidae,House Finch,resident,frugivore,mating behaviors
+109,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+110,2019,2019-05-02,5.2.6,spring,2,4,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,movement
+111,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+112,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+113,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,perching
+113,2019,2019-08-18,8.18.6,summer,18,34,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+114,2019,2019-08-18,8.18.6,summer,18,34,cactus,Troglodytidae,Cactus Wren,resident,omnivore,movement
+115,2019,2019-05-02,5.2.6,spring,2,4,open,Columbidae,Mourning Dove,resident,granivore,perching
+117,2019,2019-05-02,5.2.6,spring,2,4,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+118,2019,2019-05-02,5.2.6,spring,2,4,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+119,2019,2019-05-02,5.2.6,spring,2,4,open,Columbidae,Mourning Dove,resident,granivore,perching
+119,2019,2019-08-18,8.18.6,summer,18,34,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+120,2019,2019-08-18,8.18.6,summer,18,34,cactus,Mimidae,Crissal Thrasher,resident,omnivore,mating behaviors
+121,2019,2019-08-18,8.18.18,summer,18,35,shrub,Troglodytidae,Bewick's Wren,resident,insectivore,movement
+122,2019,2019-05-02,5.2.6,spring,2,4,shrub,Fringillidae,House finch,resident,frugivore,perching
+124,2019,2019-05-02,5.2.6,spring,2,4,cactus,Ptiliogonatidae,Phainopepla,resident,frugivore,feeding
+125,2019,2019-05-02,5.2.6,spring,2,4,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+125,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+126,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+126,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Green.tailed Towhee,migrant,omnivore,perching
+127,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+127,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+128,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+128,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+129,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+129,2019,2019-05-02,5.2.6,spring,2,4,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+130,2019,2019-08-18,8.18.18,summer,18,35,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+130,2019,2019-05-02,5.2.6,spring,2,4,cactus,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+134,2019,2019-05-02,5.2.6,spring,2,4,open,Mimidae,Crissal Thrasher,resident,omnivore,perching
+135,2019,2019-05-02,5.2.6,spring,2,4,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+136,2019,2019-08-19,8.19.6,summer,19,36,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+137,2019,2019-05-02,5.2.6,spring,2,4,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+138,2019,2019-08-19,8.19.6,summer,19,36,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+139,2019,2019-08-19,8.19.6,summer,19,36,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+139,2019,2019-05-02,5.2.6,spring,2,4,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+140,2019,2019-08-19,8.19.6,summer,19,36,shrub,Remezidae,Verdin,resident,insectivore,movement
+141,2019,2019-08-19,8.19.6,summer,19,36,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+142,2019,2019-08-19,8.19.6,summer,19,36,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+143,2019,2019-08-19,8.19.6,summer,19,36,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+143,2019,2019-05-02,5.2.6,spring,2,4,shrub,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,feeding
+144,2019,2019-08-19,8.19.6,summer,19,36,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+144,2019,2019-05-02,5.2.6,spring,2,4,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+145,2019,2019-08-19,8.19.6,summer,19,36,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+145,2019,2019-05-02,5.2.6,spring,2,4,open,Passerellidae,Green.tailed Towhee,migrant,omnivore,perching
+146,2019,2019-08-19,8.19.6,summer,19,36,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+147,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+148,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+149,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+150,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+152,2019,2019-05-02,5.2.6,spring,2,4,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+153,2019,2019-05-02,5.2.6,spring,2,4,shrub,Tyrannidae,Hammond's Flycatcher,migrant,insectivore,perching
+156,2019,2019-05-02,5.2.6,spring,2,4,shrub,Trochilidae,Black.chinned hummingbird,migrant,nectarivore,mating behaviors
+158,2019,2019-05-02,5.2.6,spring,2,4,shrub,Mimidae,Northern Mockingbird,resident,omnivore,movement
+159,2019,2019-05-02,5.2.6,spring,2,4,shrub,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+160,2019,2019-08-19,8.19.6,summer,19,36,shrub,Troglodytidae,Bewick's Wren,resident,insectivore,movement
+160,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+161,2019,2019-05-02,5.2.6,spring,2,4,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+162,2019,2019-08-19,8.19.6,summer,19,36,shrub,Laniidae,Loggerhead Shrike,resident,carnivore,movement
+162,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+163,2019,2019-08-19,8.19.6,summer,19,36,shrub,Troglodytidae,Cactus Wren,resident,omnivore,movement
+163,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+164,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+165,2019,2019-08-19,8.19.6,summer,19,36,shrub,Mimidae,Crissal Thrasher,resident,omnivore,perching
+165,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+166,2019,2019-08-19,8.19.6,summer,19,36,shrub,Fringillidae,House Finch,resident,frugivore,perching
+166,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+167,2019,2019-08-19,8.19.6,summer,19,36,shrub,Icteridae,Scott's Oriole,summer resident,omnivore,feeding
+167,2019,2019-05-02,5.2.6,spring,2,4,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+168,2019,2019-05-02,5.2.6,spring,2,4,shrub,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+168,2019,2019-08-19,8.19.6,summer,19,36,shrub,Icteridae,Scott's Oriole,summer resident,omnivore,feeding
+169,2019,2019-05-02,5.2.8,spring,2,5,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,movement
+169,2019,2019-08-19,8.19.6,summer,19,36,shrub,Icteridae,Scott's Oriole,summer resident,omnivore,feeding
+170,2019,2019-05-02,5.2.8,spring,2,5,shrub,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+171,2019,2019-05-02,5.2.8,spring,2,5,cactus,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+172,2019,2019-05-02,5.2.8,spring,2,5,cactus,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+172,2019,2019-08-19,8.19.18,summer,19,37,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+174,2019,2019-08-19,8.19.18,summer,19,37,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+177,2019,2019-05-02,5.2.8,spring,2,5,cactus,Tyrannidae,Say's Phoebe,resident,insectivore,mating behaviors
+178,2019,2019-05-02,5.2.8,spring,2,5,cactus,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+178,2019,2019-08-19,8.19.18,summer,19,37,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+179,2019,2019-05-02,5.2.8,spring,2,5,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,mating behaviors
+179,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+180,2019,2019-05-02,5.2.8,spring,2,5,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+180,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+181,2019,2019-05-02,5.2.8,spring,2,5,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+181,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+182,2019,2019-05-02,5.2.8,spring,2,5,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+182,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+183,2019,2019-05-02,5.2.8,spring,2,5,open,Mimidae,Northern Mockingbird,resident,omnivore,movement
+183,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+184,2019,2019-05-02,5.2.8,spring,2,5,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+184,2019,2019-08-19,8.19.18,summer,19,37,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+186,2019,2019-05-02,5.2.8,spring,2,5,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+189,2019,2019-08-20,8.20.7,summer,20,38,cactus,Remezidae,Verdin,resident,insectivore,movement
+190,2019,2019-05-02,5.2.8,spring,2,5,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+192,2019,2019-05-02,5.2.8,spring,2,5,shrub,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,movement
+192,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+193,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+193,2019,2019-05-02,5.2.8,spring,2,5,shrub,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+194,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+195,2019,2019-05-02,5.2.8,spring,2,5,shrub,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,perching
+195,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+196,2019,2019-05-02,5.2.8,spring,2,5,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+196,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+197,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+198,2019,2019-05-02,5.2.8,spring,2,5,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+199,2019,2019-08-20,8.20.7,summer,20,38,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+200,2019,2019-05-02,5.2.8,spring,2,5,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+200,2019,2019-08-20,8.20.7,summer,20,38,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+201,2019,2019-05-02,5.2.8,spring,2,5,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+201,2019,2019-08-20,8.20.7,summer,20,38,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+203,2019,2019-05-02,5.2.8,spring,2,5,cactus,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,feeding
+205,2019,2019-05-02,5.2.10,spring,2,6,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+206,2019,2019-08-20,8.20.17,summer,20,39,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+210,2019,2019-05-02,5.2.10,spring,2,6,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+211,2019,2019-05-02,5.2.10,spring,2,6,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+211,2019,2019-08-21,8.21.6,summer,21,40,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+212,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+213,2019,2019-05-02,5.2.10,spring,2,6,cactus,Mimidae,Northern Mockingbird,resident,omnivore,movement
+214,2019,2019-05-02,5.2.10,spring,2,6,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+214,2019,2019-08-21,8.21.6,summer,21,40,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+215,2019,2019-05-02,5.2.10,spring,2,6,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+216,2019,2019-08-21,8.21.6,summer,21,40,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+216,2019,2019-05-02,5.2.10,spring,2,6,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,perching
+217,2019,2019-08-21,8.21.6,summer,21,40,shrub,Picidae,Nuttall's/Ladderback Woodpecker Hybrid,resident,frugivore,movement
+219,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Green.tailed Towhee,migrant,omnivore,perching
+220,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Green.tailed Towhee,migrant,omnivore,perching
+221,2019,2019-08-21,8.21.6,summer,21,40,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+222,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+222,2019,2019-08-21,8.21.6,summer,21,40,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+223,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+223,2019,2019-08-21,8.21.6,summer,21,40,cactus,Remezidae,Verdin,resident,insectivore,mating behaviors
+224,2019,2019-08-21,8.21.6,summer,21,40,open,Icteridae,Scott's Oriole,summer resident,omnivore,movement
+224,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+225,2019,2019-08-21,8.21.17,summer,21,41,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+225,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+226,2019,2019-08-21,8.21.17,summer,21,41,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+226,2019,2019-05-02,5.2.10,spring,2,6,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+227,2019,2019-08-21,8.21.17,summer,21,41,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+230,2019,2019-08-21,8.21.17,summer,21,41,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+231,2019,2019-08-21,8.21.17,summer,21,41,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+231,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+232,2019,2019-08-21,8.21.17,summer,21,41,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+232,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+233,2019,2019-08-21,8.21.17,summer,21,41,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+233,2019,2019-05-02,5.2.10,spring,2,6,cactus,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+234,2019,2019-08-21,8.21.17,summer,21,41,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+235,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+236,2019,2019-05-02,5.2.10,spring,2,6,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+237,2019,2019-08-22,8.22.6,summer,22,42,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+237,2019,2019-05-02,5.2.14,spring,2,7,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+238,2019,2019-08-22,8.22.6,summer,22,42,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+238,2019,2019-05-02,5.2.14,spring,2,7,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,mating behaviors
+239,2019,2019-08-22,8.22.6,summer,22,42,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+241,2019,2019-05-02,5.2.14,spring,2,7,open,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+242,2019,2019-05-02,5.2.14,spring,2,7,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+242,2019,2019-08-22,8.22.6,summer,22,42,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+243,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+244,2019,2019-05-02,5.2.14,spring,2,7,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+244,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+245,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+246,2019,2019-05-02,5.2.14,spring,2,7,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+246,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+247,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+247,2019,2019-05-02,5.2.14,spring,2,7,shrub,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+248,2019,2019-05-02,5.2.14,spring,2,7,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+248,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+249,2019,2019-08-22,8.22.6,summer,22,42,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+252,2019,2019-05-02,5.2.14,spring,2,7,cactus,Unknown,Unknown,unknown,Unknown,movement
+253,2019,2019-05-02,5.2.14,spring,2,7,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+253,2019,2019-08-22,8.22.6,summer,22,42,cactus,Troglodytidae,Cactus Wren,resident,omnivore,movement
+256,2019,2019-05-02,5.2.14,spring,2,7,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+257,2019,2019-08-22,8.22.6,summer,22,42,cactus,Remezidae,Verdin,resident,insectivore,perching
+260,2019,2019-08-22,8.22.18,summer,22,43,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+262,2019,2019-08-22,8.22.18,summer,22,43,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+264,2019,2019-05-03,5.3.6,spring,3,8,open,Fringillidae,House Finch,resident,frugivore,movement
+265,2019,2019-05-03,5.3.6,spring,3,8,open,Fringillidae,House Finch,resident,frugivore,movement
+266,2019,2019-05-03,5.3.6,spring,3,8,open,Apodidae,White.throated Swift,resident,insectivore,movement
+266,2019,2019-08-23,8.23.7,summer,23,44,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+267,2019,2019-05-03,5.3.6,spring,3,8,open,Apodidae,White.throated Swift,resident,insectivore,movement
+268,2019,2019-08-23,8.23.7,summer,23,44,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+269,2019,2019-05-03,5.3.6,spring,3,8,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+270,2019,2019-05-03,5.3.6,spring,3,8,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+271,2019,2019-05-03,5.3.6,spring,3,8,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+271,2019,2019-08-23,8.23.7,summer,23,44,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+272,2019,2019-08-23,8.23.7,summer,23,44,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+275,2019,2019-08-23,8.23.7,summer,23,44,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+276,2019,2019-08-23,8.23.7,summer,23,44,open,Cuculidae,Greater Roadrunner,resident,insectivore,movement
+277,2019,2019-08-23,8.23.7,summer,23,44,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+278,2019,2019-08-23,8.23.7,summer,23,44,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+281,2019,2019-08-23,8.23.7,summer,23,44,cactus,Picidae,Nuttall's Woodpecker,resident,frugivore,feeding
+282,2019,2019-08-23,8.23.7,summer,23,44,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+283,2019,2019-05-03,5.3.6,spring,3,8,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,perching
+283,2019,2019-08-23,8.23.7,summer,23,44,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+284,2019,2019-08-23,8.23.7,summer,23,44,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+286,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+287,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+288,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+289,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+291,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+291,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+292,2019,2019-05-03,5.3.6,spring,3,8,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+292,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+293,2019,2019-05-03,5.3.6,spring,3,8,shrub,Parulidae,MacGillivray's Warbler,migrant,insectivore,movement
+293,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+294,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+295,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+296,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+296,2019,2019-08-23,8.23.18,summer,23,45,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+297,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+298,2019,2019-05-03,5.3.6,spring,3,8,shrub,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,feeding
+298,2019,2019-08-24,8.24.7,summer,24,46,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+299,2019,2019-05-03,5.3.6,spring,3,8,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,movement
+300,2019,2019-05-03,5.3.6,spring,3,8,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+303,2019,2019-05-03,5.3.6,spring,3,8,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+305,2019,2019-05-03,5.3.6,spring,3,8,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+306,2019,2019-05-03,5.3.6,spring,3,8,shrub,Columbidae,Mourning Dove,resident,granivore,perching
+307,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+308,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+309,2019,2019-05-03,5.3.6,spring,3,8,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+309,2019,2019-08-24,8.24.7,summer,24,46,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+311,2019,2019-05-03,5.3.8,spring,3,9,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+314,2019,2019-08-24,8.24.7,summer,24,46,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+314,2019,2019-05-03,5.3.8,spring,3,9,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+315,2019,2019-08-24,8.24.7,summer,24,46,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+315,2019,2019-05-03,5.3.8,spring,3,9,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+316,2019,2019-08-24,8.24.7,summer,24,46,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+316,2019,2019-05-03,5.3.8,spring,3,9,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+317,2019,2019-05-03,5.3.8,spring,3,9,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,feeding
+317,2019,2019-08-24,8.24.7,summer,24,46,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+318,2019,2019-05-03,5.3.8,spring,3,9,cactus,Odontiphoridae,Gambel's Quail,resident,herbivore,mating behaviors
+319,2019,2019-05-03,5.3.8,spring,3,9,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+320,2019,2019-05-03,5.3.8,spring,3,9,cactus,Mimidae,Northern Mockingbird,resident,omnivore,movement
+320,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+321,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+321,2019,2019-05-03,5.3.8,spring,3,9,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+322,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+322,2019,2019-05-03,5.3.8,spring,3,9,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+323,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+324,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+325,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+326,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+327,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+328,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+329,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+330,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+331,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+332,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+333,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+334,2019,2019-05-03,5.3.8,spring,3,9,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+334,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+335,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+335,2019,2019-05-03,5.3.8,spring,3,9,open,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+336,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+336,2019,2019-05-03,5.3.8,spring,3,9,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+337,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+337,2019,2019-05-03,5.3.8,spring,3,9,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+338,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+338,2019,2019-05-03,5.3.8,spring,3,9,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+339,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+339,2019,2019-05-03,5.3.8,spring,3,9,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+340,2019,2019-05-03,5.3.8,spring,3,9,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+340,2019,2019-08-24,8.24.17,summer,24,47,open,Odontiphoridae,Gambel's Quail,resident,herbivore,feeding
+341,2019,2019-05-03,5.3.8,spring,3,9,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+341,2019,2019-08-24,8.24.17,summer,24,47,shrub,Odontiphoridae,Gambel's Quail,resident,herbivore,mating behaviors
+342,2019,2019-08-24,8.24.17,summer,24,47,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+343,2019,2019-05-03,5.3.8,spring,3,9,cactus,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,perching
+344,2019,2019-05-03,5.3.8,spring,3,9,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+345,2019,2019-05-03,5.3.8,spring,3,9,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+346,2019,2019-05-03,5.3.8,spring,3,9,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+347,2019,2019-08-24,8.24.17,summer,24,47,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,movement
+347,2019,2019-05-03,5.3.8,spring,3,9,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+348,2019,2019-05-03,5.3.16,spring,3,10,open,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+349,2019,2019-05-03,5.3.16,spring,3,10,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+349,2019,2019-08-24,8.24.17,summer,24,47,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+350,2019,2019-05-03,5.3.16,spring,3,10,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+350,2019,2019-08-24,8.24.17,summer,24,47,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+351,2019,2019-05-03,5.3.16,spring,3,10,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+352,2019,2019-05-03,5.3.16,spring,3,10,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+353,2019,2019-05-03,5.3.16,spring,3,10,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+355,2019,2019-05-03,5.3.16,spring,3,10,open,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,perching
+356,2019,2019-05-03,5.3.16,spring,3,10,open,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,perching
+357,2019,2019-05-03,5.3.16,spring,3,10,open,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,perching
+358,2019,2019-05-03,5.3.16,spring,3,10,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+359,2019,2019-05-03,5.3.16,spring,3,10,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+360,2019,2019-05-03,5.3.16,spring,3,10,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+361,2019,2019-05-03,5.3.16,spring,3,10,open,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,movement
+362,2019,2019-05-03,5.3.16,spring,3,10,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+363,2019,2019-05-03,5.3.16,spring,3,10,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+364,2019,2019-05-03,5.3.16,spring,3,10,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+365,2019,2019-05-03,5.3.16,spring,3,10,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+366,2019,2019-05-03,5.3.16,spring,3,10,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+370,2019,2019-05-03,5.3.16,spring,3,10,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,movement
+371,2019,2019-05-03,5.3.16,spring,3,10,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+373,2019,2019-05-03,5.3.16,spring,3,10,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+374,2019,2019-05-03,5.3.16,spring,3,10,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+379,2019,2019-05-04,5.4.6,spring,4,11,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+380,2019,2019-05-04,5.4.6,spring,4,11,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+381,2019,2019-05-04,5.4.6,spring,4,11,cactus,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+382,2019,2019-05-04,5.4.6,spring,4,11,cactus,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,feeding
+384,2019,2019-05-04,5.4.6,spring,4,11,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+385,2019,2019-05-04,5.4.6,spring,4,11,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+386,2019,2019-05-04,5.4.6,spring,4,11,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,mating behaviors
+387,2019,2019-05-04,5.4.6,spring,4,11,open,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+391,2019,2019-05-04,5.4.6,spring,4,11,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+392,2019,2019-05-04,5.4.6,spring,4,11,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+396,2019,2019-05-04,5.4.6,spring,4,11,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+398,2019,2019-05-04,5.4.6,spring,4,11,open,Cardinalidae,Black.headed Grosbeak,summer resident,omnivore,movement
+404,2019,2019-05-04,5.4.6,spring,4,11,cactus,Odontiphoridae,Gambel's Quail,resident,herbivore,mating behaviors
+405,2019,2019-05-04,5.4.6,spring,4,11,cactus,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+407,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+408,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+409,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+410,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+411,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+412,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+413,2019,2019-05-04,5.4.6,spring,4,11,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+417,2019,2019-05-04,5.4.8,spring,4,12,open,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,feeding
+418,2019,2019-05-04,5.4.8,spring,4,12,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+423,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+424,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+425,2019,2019-05-04,5.4.8,spring,4,12,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,mating behaviors
+426,2019,2019-05-04,5.4.8,spring,4,12,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+428,2019,2019-05-04,5.4.8,spring,4,12,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,movement
+429,2019,2019-05-04,5.4.8,spring,4,12,open,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+431,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+432,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+433,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+434,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+435,2019,2019-05-04,5.4.8,spring,4,12,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+436,2019,2019-05-04,5.4.8,spring,4,12,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+437,2019,2019-05-04,5.4.8,spring,4,12,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+438,2019,2019-05-04,5.4.8,spring,4,12,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+439,2019,2019-05-04,5.4.8,spring,4,12,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+440,2019,2019-05-04,5.4.8,spring,4,12,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+441,2019,2019-05-04,5.4.8,spring,4,12,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+443,2019,2019-05-04,5.4.8,spring,4,12,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+444,2019,2019-05-04,5.4.8,spring,4,12,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,mating behaviors
+450,2019,2019-05-05,5.5.16,spring,5,13,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+451,2019,2019-05-05,5.5.16,spring,5,13,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+453,2019,2019-05-05,5.5.16,spring,5,13,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,perching
+454,2019,2019-05-05,5.5.16,spring,5,13,cactus,Mimidae,Northern Mockingbird,resident,omnivore,perching
+461,2019,2019-05-05,5.5.16,spring,5,13,open,Columbidae,Mourning Dove,resident,granivore,movement
+462,2019,2019-05-05,5.5.16,spring,5,13,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+464,2019,2019-05-05,5.5.16,spring,5,13,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,movement
+465,2019,2019-05-05,5.5.16,spring,5,13,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+469,2019,2019-05-05,5.5.18,spring,5,14,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+471,2019,2019-05-05,5.5.18,spring,5,14,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+473,2019,2019-05-05,5.5.18,spring,5,14,open,Troglodytidae,Rock Wren,resident,insectivore,perching
+474,2019,2019-05-05,5.5.18,spring,5,14,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+475,2019,2019-05-05,5.5.18,spring,5,14,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+476,2019,2019-05-05,5.5.18,spring,5,14,open,Fringillidae,House Finch,resident,frugivore,mating behaviors
+477,2019,2019-05-05,5.5.18,spring,5,14,shrub,Fringillidae,House Finch,resident,frugivore,mating behaviors
+478,2019,2019-05-05,5.5.18,spring,5,14,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,movement
+480,2019,2019-05-05,5.5.18,spring,5,14,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+481,2019,2019-05-05,5.5.18,spring,5,14,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+482,2019,2019-05-05,5.5.18,spring,5,14,open,Columbidae,Mourning Dove,resident,granivore,mating behaviors
+488,2019,2019-05-06,5.6.6,spring,6,15,cactus,Remezidae,Verdin,resident,insectivore,movement
+489,2019,2019-05-06,5.6.6,spring,6,15,open,Remezidae,Verdin,resident,insectivore,movement
+490,2019,2019-05-06,5.6.6,spring,6,15,cactus,Remezidae,Verdin,resident,insectivore,movement
+494,2019,2019-05-06,5.6.6,spring,6,15,open,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+495,2019,2019-05-06,5.6.6,spring,6,15,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+496,2019,2019-05-06,5.6.6,spring,6,15,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+497,2019,2019-05-06,5.6.6,spring,6,15,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,feeding
+500,2019,2019-05-06,5.6.6,spring,6,15,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+501,2019,2019-05-06,5.6.6,spring,6,15,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+502,2019,2019-05-06,5.6.6,spring,6,15,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+504,2019,2019-05-06,5.6.6,spring,6,15,shrub,Unknown,Unknown Passerine,unknown,Unknown,movement
+505,2019,2019-05-06,5.6.6,spring,6,15,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+506,2019,2019-05-06,5.6.6,spring,6,15,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+512,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+513,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+514,2019,2019-05-06,5.6.6,spring,6,15,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+515,2019,2019-05-06,5.6.6,spring,6,15,open,Odontiphoridae,Gambel's Quail,resident,herbivore,perching
+516,2019,2019-05-06,5.6.6,spring,6,15,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+517,2019,2019-05-06,5.6.6,spring,6,15,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,movement
+519,2019,2019-05-06,5.6.6,spring,6,15,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,feeding
+520,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+521,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+522,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+523,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+524,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+525,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+526,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+527,2019,2019-05-06,5.6.6,spring,6,15,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+528,2019,2019-05-06,5.6.6,spring,6,15,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+530,2019,2019-05-06,5.6.6,spring,6,15,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+532,2019,2019-05-06,5.6.6,spring,6,15,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+533,2019,2019-05-06,5.6.6,spring,6,15,open,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,feeding
+535,2019,2019-05-06,5.6.6,spring,6,15,open,Columbidae,Mourning Dove,resident,granivore,movement
+536,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+537,2019,2019-05-06,5.6.8,spring,6,16,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+542,2019,2019-05-06,5.6.8,spring,6,16,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+543,2019,2019-05-06,5.6.8,spring,6,16,open,Columbidae,Mourning Dove,resident,granivore,movement
+544,2019,2019-05-06,5.6.8,spring,6,16,open,Columbidae,Mourning Dove,resident,granivore,movement
+545,2019,2019-05-06,5.6.8,spring,6,16,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+546,2019,2019-05-06,5.6.8,spring,6,16,shrub,Tyrannidae,Gray Flycatcher,migrant,insectivore,perching
+549,2019,2019-05-06,5.6.8,spring,6,16,shrub,Tyrannidae,Pacific.slope Flycatcher,migrant,insectivore,perching
+550,2019,2019-05-06,5.6.8,spring,6,16,shrub,Tyrannidae,Gray Flycatcher,migrant,insectivore,perching
+551,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,mating behaviors
+552,2019,2019-05-06,5.6.8,spring,6,16,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+554,2019,2019-05-06,5.6.8,spring,6,16,open,Columbidae,Mourning Dove,resident,granivore,movement
+555,2019,2019-05-06,5.6.8,spring,6,16,open,Columbidae,Mourning Dove,resident,granivore,movement
+556,2019,2019-05-06,5.6.8,spring,6,16,open,Apodidae,White.throated Swift,resident,insectivore,movement
+557,2019,2019-05-06,5.6.8,spring,6,16,open,Apodidae,White.throated Swift,resident,insectivore,movement
+558,2019,2019-05-06,5.6.8,spring,6,16,cactus,Tyrannidae,Say's Phoebe,resident,insectivore,mating behaviors
+560,2019,2019-05-06,5.6.8,spring,6,16,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+564,2019,2019-05-06,5.6.8,spring,6,16,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+566,2019,2019-05-06,5.6.8,spring,6,16,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+567,2019,2019-05-06,5.6.8,spring,6,16,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+568,2019,2019-05-06,5.6.8,spring,6,16,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+569,2019,2019-05-06,5.6.8,spring,6,16,open,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,movement
+570,2019,2019-05-06,5.6.8,spring,6,16,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+571,2019,2019-05-06,5.6.8,spring,6,16,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+572,2019,2019-05-06,5.6.8,spring,6,16,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+573,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+574,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+575,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+576,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+577,2019,2019-05-06,5.6.8,spring,6,16,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+578,2019,2019-05-06,5.6.8,spring,6,16,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+579,2019,2019-05-06,5.6.8,spring,6,16,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+580,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+581,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+582,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+583,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+584,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+585,2019,2019-05-06,5.6.8,spring,6,16,shrub,Remezidae,Verdin,resident,insectivore,movement
+586,2019,2019-05-06,5.6.8,spring,6,16,open,Mimidae,Northern Mockingbird,resident,omnivore,movement
+592,2019,2019-05-06,5.6.16,spring,6,17,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+593,2019,2019-05-06,5.6.16,spring,6,17,cactus,Parulidae,Wilson's Warbler,migrant,insectivore,feeding
+593.5,2019,2019-05-06,5.6.16,spring,6,17,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+594,2019,2019-05-06,5.6.16,spring,6,17,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+596,2019,2019-05-06,5.6.16,spring,6,17,open,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,mating behaviors
+597,2019,2019-05-06,5.6.16,spring,6,17,open,Columbidae,Mourning Dove,resident,granivore,movement
+598,2019,2019-05-06,5.6.16,spring,6,17,open,Columbidae,Mourning Dove,resident,granivore,movement
+599,2019,2019-05-06,5.6.16,spring,6,17,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+600,2019,2019-05-06,5.6.16,spring,6,17,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+601,2019,2019-05-06,5.6.16,spring,6,17,cactus,Mimidae,Northern Mockingbird,resident,omnivore,perching
+603,2019,2019-05-06,5.6.16,spring,6,17,shrub,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,feeding
+604,2019,2019-05-06,5.6.16,spring,6,17,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+605,2019,2019-05-06,5.6.16,spring,6,17,open,Mimidae,Northern Mockingbird,resident,omnivore,movement
+606,2019,2019-05-06,5.6.16,spring,6,17,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+608,2019,2019-05-06,5.6.16,spring,6,17,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+609,2019,2019-05-06,5.6.16,spring,6,17,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+610,2019,2019-05-06,5.6.16,spring,6,17,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,movement
+611,2019,2019-05-06,5.6.16,spring,6,17,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+614,2019,2019-05-06,5.6.16,spring,6,17,cactus,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+615,2019,2019-05-06,5.6.16,spring,6,17,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+616,2019,2019-05-06,5.6.16,spring,6,17,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+618,2019,2019-05-07,5.7.8,spring,7,18,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+619,2019,2019-05-07,5.7.8,spring,7,18,open,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+621,2019,2019-05-07,5.7.8,spring,7,18,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+623,2019,2019-05-07,5.7.8,spring,7,18,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,perching
+626,2019,2019-05-07,5.7.8,spring,7,18,shrub,Parulidae,Townsend's Warbler,migrant,insectivore,feeding
+627,2019,2019-05-07,5.7.8,spring,7,18,shrub,Vireonidae,Warbling Vireo,migrant,insectivore,feeding
+628,2019,2019-05-07,5.7.8,spring,7,18,shrub,Parulidae,Townsend's Warbler,migrant,insectivore,feeding
+629,2019,2019-05-07,5.7.8,spring,7,18,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+630,2019,2019-05-07,5.7.8,spring,7,18,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+632,2019,2019-05-07,5.7.8,spring,7,18,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+633,2019,2019-05-07,5.7.8,spring,7,18,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,feeding
+635,2019,2019-05-07,5.7.8,spring,7,18,shrub,Parulidae,Townsend's Warbler,migrant,insectivore,feeding
+636,2019,2019-05-07,5.7.8,spring,7,18,shrub,Tyrannidae,Pacific.slope Flycatcher,migrant,insectivore,perching
+637,2019,2019-05-07,5.7.8,spring,7,18,open,Columbidae,Mourning Dove,resident,granivore,movement
+638,2019,2019-05-07,5.7.8,spring,7,18,open,Columbidae,Mourning Dove,resident,granivore,movement
+643,2019,2019-05-07,5.7.8,spring,7,18,shrub,Tyrannidae,Gray Flycatcher,migrant,insectivore,perching
+652,2019,2019-05-07,5.7.10,spring,7,19,cactus,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+654,2019,2019-05-07,5.7.10,spring,7,19,cactus,Troglodytidae,Cactus Wren,resident,omnivore,mating behaviors
+657,2019,2019-05-07,5.7.10,spring,7,19,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+658,2019,2019-05-07,5.7.10,spring,7,19,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+659,2019,2019-05-07,5.7.10,spring,7,19,open,Mimidae,Northern Mockingbird,resident,omnivore,movement
+660,2019,2019-05-07,5.7.10,spring,7,19,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+661,2019,2019-05-07,5.7.10,spring,7,19,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+662,2019,2019-05-07,5.7.10,spring,7,19,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+663,2019,2019-05-07,5.7.10,spring,7,19,open,Troglodytidae,Rock Wren,resident,insectivore,movement
+669,2019,2019-05-07,5.7.10,spring,7,19,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+670,2019,2019-05-07,5.7.10,spring,7,19,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+672,2019,2019-05-07,5.7.10,spring,7,19,shrub,Parulidae,Wilson's Warbler,migrant,insectivore,movement
+676,2019,2019-05-07,5.7.12,spring,7,20,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+677,2019,2019-05-07,5.7.12,spring,7,20,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+679,2019,2019-05-07,5.7.12,spring,7,20,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+682,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+683,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+684,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+685,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+686,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+687,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+688,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+689,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+690,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+691,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+692,2019,2019-05-07,5.7.12,spring,7,20,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+693,2019,2019-05-07,5.7.12,spring,7,20,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+694,2019,2019-05-07,5.7.12,spring,7,20,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+698,2019,2019-05-07,5.7.12,spring,7,20,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+700,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+702,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+703,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+704,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+705,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+706,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+707,2019,2019-05-07,5.7.12,spring,7,20,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+710,2019,2019-05-07,5.7.12,spring,7,20,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,movement
+711,2019,2019-05-07,5.7.12,spring,7,20,shrub,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,perching
+713,2019,2019-05-07,5.7.12,spring,7,20,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+714,2019,2019-05-07,5.7.12,spring,7,20,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+716,2019,2019-05-07,5.7.12,spring,7,20,open,Ptiliogonatidae,Phainopepla,resident,frugivore,movement
+719,2019,2019-05-08,5.8.9,spring,8,21,shrub,Polioptilidae,Black.tailed Gnatcatcher,resident,insectivore,mating behaviors
+721,2019,2019-05-08,5.8.9,spring,8,21,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+724,2019,2019-05-08,5.8.9,spring,8,21,shrub,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,perching
+726,2019,2019-05-08,5.8.9,spring,8,21,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+727,2019,2019-05-08,5.8.9,spring,8,21,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+728,2019,2019-05-08,5.8.9,spring,8,21,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+729,2019,2019-05-08,5.8.9,spring,8,21,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+730,2019,2019-05-08,5.8.9,spring,8,21,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+731,2019,2019-05-08,5.8.9,spring,8,21,open,Tyrannidae,Ash.throated Flycatcher,summer resident,insectivore,mating behaviors
+733,2019,2019-05-08,5.8.9,spring,8,21,cactus,Mimidae,Northern Mockingbird,resident,omnivore,perching
+735,2019,2019-05-08,5.8.9,spring,8,21,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+736,2019,2019-05-08,5.8.9,spring,8,21,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+737,2019,2019-05-08,5.8.9,spring,8,21,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+738,2019,2019-05-08,5.8.9,spring,8,21,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,feeding
+739,2019,2019-05-08,5.8.9,spring,8,21,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,feeding
+740,2019,2019-05-08,5.8.9,spring,8,21,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,feeding
+741,2019,2019-05-08,5.8.9,spring,8,21,shrub,Parulidae,MacGillivray's Warbler,migrant,insectivore,feeding
+742,2019,2019-05-08,5.8.9,spring,8,21,open,Mimidae,Northern Mockingbird,resident,omnivore,feeding
+743,2019,2019-05-08,5.8.9,spring,8,21,open,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,feeding
+746,2019,2019-05-08,5.8.9,spring,8,21,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+747,2019,2019-05-08,5.8.9,spring,8,21,open,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+749,2019,2019-05-08,5.8.11,spring,8,22,open,Icteridae,Hooded Oriole,summer resident,omnivore,movement
+751,2019,2019-05-08,5.8.11,spring,8,22,shrub,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+752,2019,2019-05-08,5.8.11,spring,8,22,shrub,Cardinalidae,Black.headed Grosbeak,summer resident,omnivore,mating behaviors
+753,2019,2019-05-08,5.8.11,spring,8,22,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+754,2019,2019-05-08,5.8.11,spring,8,22,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+755,2019,2019-05-08,5.8.11,spring,8,22,shrub,Remezidae,Verdin,resident,insectivore,cleaning
+756,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+757,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+758,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+759,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+761,2019,2019-05-08,5.8.11,spring,8,22,shrub,Trochilidae,Anna's Hummingbird,summer resident,nectarivore,feeding
+762,2019,2019-05-08,5.8.11,spring,8,22,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+763,2019,2019-05-08,5.8.11,spring,8,22,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,cleaning
+764,2019,2019-05-08,5.8.11,spring,8,22,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+765,2019,2019-05-08,5.8.11,spring,8,22,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+766,2019,2019-05-08,5.8.11,spring,8,22,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+767,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+768,2019,2019-05-08,5.8.11,spring,8,22,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
+769,2019,2019-05-08,5.8.11,spring,8,22,open,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,movement
+770,2019,2019-05-08,5.8.11,spring,8,22,open,Odontiphoridae,Gambel's Quail,resident,herbivore,movement
+772,2019,2019-05-08,5.8.11,spring,8,22,shrub,Picidae,Nuttall's/Ladderback Woodpecker Hybrid,resident,frugivore,mating behaviors
+773,2019,2019-05-08,5.8.11,spring,8,22,open,Troglodytidae,Rock Wren,resident,insectivore,feeding
+775,2019,2019-05-09,5.9.12,spring,9,23,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,movement
+775.2,2019,2019-05-09,5.9.12,spring,9,23,open,Troglodytidae,Rock Wren,resident,insectivore,mating behaviors
+776,2019,2019-05-09,5.9.12,spring,9,23,cactus,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,feeding
+784,2019,2019-05-09,5.9.12,spring,9,23,open,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,mating behaviors
+791,2019,2019-05-09,5.9.12,spring,9,23,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+792,2019,2019-05-09,5.9.12,spring,9,23,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+795,2019,2019-05-09,5.9.14,spring,9,24,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+796,2019,2019-05-09,5.9.14,spring,9,24,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+806,2019,2019-05-09,5.9.14,spring,9,24,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+807,2019,2019-05-09,5.9.14,spring,9,24,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+808,2019,2019-05-09,5.9.14,spring,9,24,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+809,2019,2019-05-09,5.9.14,spring,9,24,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+810,2019,2019-05-09,5.9.14,spring,9,24,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,cleaning
+811,2019,2019-05-09,5.9.14,spring,9,24,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,cleaning
+816,2019,2019-05-09,5.9.14,spring,9,24,shrub,Trochilidae,Costa's Hummingbird,summer resident,nectarivore,perching
+819,2019,2019-05-09,5.9.14,spring,9,24,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+820,2019,2019-05-09,5.9.14,spring,9,24,open,Apodidae,White.throated Swift,resident,insectivore,mating behaviors
+821,2019,2019-05-10,5.10.12,spring,10,25,open,Hirundinidae,Violet.green Swallow,summer resident,insectivore,mating behaviors
+826,2019,2019-05-10,5.10.12,spring,10,25,shrub,Ptiliogonatidae,Phainopepla,resident,frugivore,perching
+828,2019,2019-05-10,5.10.12,spring,10,25,cactus,Mimidae,Northern Mockingbird,resident,omnivore,mating behaviors
+832,2019,2019-05-10,5.10.12,spring,10,25,shrub,Tyrannidae,Say's Phoebe,resident,insectivore,perching
+833,2019,2019-05-10,5.10.12,spring,10,25,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+835,2019,2019-05-10,5.10.12,spring,10,25,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+836,2019,2019-05-10,5.10.12,spring,10,25,cactus,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+837,2019,2019-05-10,5.10.12,spring,10,25,open,Columbidae,Mourning Dove,resident,granivore,perching
+841,2019,2019-05-10,5.10.12,spring,10,25,cactus,Tyrannidae,Western Wood.Pewee,migrant,insectivore,movement
+842,2019,2019-05-10,5.10.12,spring,10,25,open,Tyrannidae,Western Wood.Pewee,migrant,insectivore,movement
+843,2019,2019-05-10,5.10.12,spring,10,25,open,Tyrannidae,Western Wood.Pewee,migrant,insectivore,movement
+847,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+848,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,feeding
+849,2019,2019-05-10,5.10.14,spring,10,26,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+850,2019,2019-05-10,5.10.14,spring,10,26,open,Mimidae,Northern Mockingbird,resident,omnivore,movement
+851,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+852,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,mating behaviors
+853,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+854,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+855,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+856,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+857,2019,2019-05-10,5.10.14,spring,10,26,shrub,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+861,2019,2019-05-10,5.10.14,spring,10,26,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+862,2019,2019-05-10,5.10.14,spring,10,26,open,Passerellidae,Black.throated Sparrow,resident,granivore,perching
+863,2019,2019-05-10,5.10.14,spring,10,26,shrub,Parulidae,Nashville Warbler,migrant,insectivore,mating behaviors
+867,2019,2019-05-10,5.10.14,spring,10,26,open,Trochilidae,Unknown Hummingbird,summer resident,nectarivore,movement
+869,2019,2019-05-10,5.10.14,spring,10,26,open,Passerellidae,Black.throated Sparrow,resident,granivore,movement
+871,2019,2019-05-10,5.10.14,spring,10,26,shrub,Polioptilidae,Blue.gray Gnatcatcher,summer resident,insectivore,mating behaviors
